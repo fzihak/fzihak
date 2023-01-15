@@ -18,7 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fzihak&show_icons=true&locale=en" alt="fzihak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fzihak&" alt="fzihak" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
