@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://zihak.me/blog](https://zihak.me/blog)
 
-- 📫 How to reach me **fmzihak@gmail.com**
+- 📫 How to reach me **hello@zihak.me**
 
 
 
