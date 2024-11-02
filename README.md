@@ -6,13 +6,12 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://foysalzihak.com](https://foysalzihak.com)
+- 👨‍💻 All of my projects are available at [https://zihak.me](https://zihak.me)
 
-- 📝 I regularly write articles on [https://foysalzihak.com/blog](https://foysalzihak.com/blog)
+- 📝 I regularly write articles on [https://zihak.me/blog](https://zihak.me/blog)
 
 - 📫 How to reach me **fmzihak@gmail.com**
 
-- 📄 Know about my experiences [https://foysalzihak.com/resume](https://foysalzihak.com/resume)
 
 
 
