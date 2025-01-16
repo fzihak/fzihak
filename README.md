@@ -16,9 +16,6 @@ const developer = {
 console.log(`Hello! I'm ${developer.name}, a passionate ${developer.role}`);
 console.log("Let's build something amazing together! 🚀");
 ```
-## :chart_with_upwards_trend: Current Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fzihak&theme=tokyonight&hide_border=true)
-
 ## :mailbox: Reach me out
 
 <br />
@@ -54,6 +51,9 @@ console.log("Let's build something amazing together! 🚀");
 <img src="images/icons/mongo.png"/>
 </p><br/>
 
+## :chart_with_upwards_trend: Current Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fzihak&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
