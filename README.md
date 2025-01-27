@@ -52,8 +52,9 @@ console.log("Let's build something amazing together! 🚀");
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fzihak&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&theme=react&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fzihak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="220" alt="languages graph" />
+</div>
 
 ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
