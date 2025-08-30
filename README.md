@@ -47,9 +47,8 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fzihak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzihak&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -136,18 +135,6 @@ interface CurrentActivities {
 
 ---
 
-## 🎨 Fun Zone
-
-<div align="center">
-  
-  ### 🐍 Watch my commits get eaten by the snake!
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -178,5 +165,6 @@ interface CurrentActivities {
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
+
 
 
