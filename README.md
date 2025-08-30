@@ -57,10 +57,6 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fzihak&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fzihak&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 ---
 
 ## 🎯 What I'm Up To
@@ -186,3 +182,4 @@ interface CurrentActivities {
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
+
