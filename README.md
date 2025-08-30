@@ -70,33 +70,6 @@ interface CurrentActivities {
 }
 ```
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-🔗 [A Beginner's Complete Guide to Frontend Web Development](https://dev.to/fzihak/getting-started-with-frontend-web-development-a-complete-guide-for-beginners-295j)
-
-🔗 [Machine Learning (A Beginner's Guide and Opportunities)](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
-
-🔗 [How to Start Learning a Programming Language: A Beginner's Guide](https://dev.to/fzihak/how-to-start-learning-a-programming-language-a-beginners-guide-o9d)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihak/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZihakFoysal)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FoysalZihak)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fzihak)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -133,6 +106,30 @@ interface CurrentActivities {
 </table>
 
 ---
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+🔗 [A Beginner's Complete Guide to Frontend Web Development](https://dev.to/fzihak/getting-started-with-frontend-web-development-a-complete-guide-for-beginners-295j)
+
+🔗 [Machine Learning (A Beginner's Guide and Opportunities)](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
+
+🔗 [How to Start Learning a Programming Language: A Beginner's Guide](https://dev.to/fzihak/how-to-start-learning-a-programming-language-a-beginners-guide-o9d)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihak/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZihakFoysal)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FoysalZihak)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fzihak)
+
+</div>
+
+---
 
 <div align="center">
   <h3>💫 Thanks for visiting my profile! </h3>
@@ -143,6 +140,7 @@ interface CurrentActivities {
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
+
 
 
 
