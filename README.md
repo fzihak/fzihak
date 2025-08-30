@@ -48,7 +48,6 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzihak&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -135,27 +134,6 @@ interface CurrentActivities {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🎯 Quick Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzihak&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fzihak&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fzihak&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
   <h3>💫 Thanks for visiting my profile! </h3>
   <p>
@@ -165,6 +143,7 @@ interface CurrentActivities {
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
+
 
 
 
