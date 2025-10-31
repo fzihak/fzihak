@@ -57,26 +57,6 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 
 ---
 
-## 🎯 What I'm Up To
-
-```typescript
-interface CurrentActivities {
-  🔭 working_on: "Exciting new React projects";
-  🌱 learning: "Advanced Go programming & System Design";
-  👯 collaborate_on: "Open source projects & innovative web apps";
-  💬 ask_me_about: "React, Next.js, JavaScript, or any web dev topics";
-  📫 reach_me: "LinkedIn or Twitter DM";
-  ⚡ fun_fact: "I debug with console.log and I'm not ashamed! 😄";
-}
-```
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fzihak&bg_color=1a1b27&color=38bcf8&line=38bcf8&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
 
 ## 💼 Professional Expertise
 
@@ -129,17 +109,6 @@ interface CurrentActivities {
 
 </div>
 
----
-
-<div align="center">
-  <h3>💫 Thanks for visiting my profile! </h3>
-  <p>
-    <i>🌟 Star some repositories if you find them interesting!</i><br>
-    <i>📬 Feel free to reach out for collaborations or just a friendly chat!</i>
-  </p>
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-</div>
 
 
 
