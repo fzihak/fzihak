@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Foysal Zihak
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Cloud+Native+Engineer;Go+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Microservices+%7C+Distributed+Systems+%7C+DevOps;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Go+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+fast+%26+scalable+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -33,14 +33,14 @@ type Developer struct {
 func main() {
 	me := Developer{
 		Name:     "Foysal Zihak",
-		Role:     "Full Stack Developer & Cloud Native Engineer",
+		Role:     "Full Stack Developer",
 		Location: "Dhaka, Bangladesh 🇧🇩",
 		Focus: []string{
-			"Microservices with Go",
-			"Cloud-Native Architectures (AWS, Docker, K8s)",
-			"React & Next.js full-stack apps",
+			"Building full-stack apps with Go & Node.js",
+			"React & Next.js — frontend to production",
+			"Clean APIs, scalable databases & fast UIs",
 		},
-		Learning:   []string{"Distributed Systems", "AI/ML Integration", "Platform Engineering"},
+		Learning:   []string{"System Design", "AI/ML Integration", "DevOps & Cloud basics"},
 		Philosophy: "Write code that scales, systems that last, and docs that help.",
 	}
 
@@ -72,14 +72,14 @@ func main() {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ☁️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -109,13 +109,13 @@ func main() {
     </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=docker" width="55" /><br/>
-      <strong>Container Orchestration</strong><br/>
-      <sub>Docker + Kubernetes deployments</sub>
+      <strong>Docker</strong><br/>
+      <sub>Containerization & local dev environments</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" /><br/>
-      <strong>Cloud Infrastructure</strong><br/>
-      <sub>Scalable AWS architectures</sub>
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" /><br/>
+      <strong>Deployment</strong><br/>
+      <sub>Vercel, Netlify & shared hosting</sub>
     </td>
   </tr>
 </table>
