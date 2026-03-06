@@ -18,6 +18,12 @@ I build web applications — from REST APIs in Go and Node.js to production UIs 
 
 ---
 
+**GitHub Stats**
+
+<img src="https://streak-stats.demolab.com/?user=fzihak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+---
+
 **Writing**
 
 - [A Beginner's Complete Guide to Frontend Web Development](https://dev.to/fzihak/getting-started-with-frontend-web-development-a-complete-guide-for-beginners-295j)
