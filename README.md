@@ -14,6 +14,7 @@ Full Stack Developer · Dhaka, Bangladesh
 ---
 
 Building web products end-to-end — Go & Node.js on the server, React & Next.js on the client.  
+I also work with the WordPress ecosystem — custom themes and plugin development.  
 I care about clean APIs, maintainable code, and shipping things that actually work.
 
 ---
@@ -23,6 +24,8 @@ I care about clean APIs, maintainable code, and shipping things that actually wo
 ```
 Frontend   →   React  ·  Next.js  ·  Vue.js  ·  TypeScript  ·  Tailwind CSS
 Backend    →   Go  ·  Node.js  ·  Express  ·  MySQL  ·  Redis
+WordPress  →   Theme Development  ·  Plugin Development  ·  WP Ecosystem
+QA         →   Manual Testing  ·  Bug Reporting  ·  Test Case Design
 Tools      →   Git  ·  Docker  ·  Linux  ·  Vercel  ·  Netlify
 ```
 
