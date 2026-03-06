@@ -7,7 +7,7 @@ Full Stack Developer · Dhaka, Bangladesh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihak/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/fzihak)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ZihakFoysal)
-[![Views](https://komarev.com/ghpvc/?username=fzihak&style=flat-square&color=555&label=views)](https://github.com/fzihak)
+![Views](https://komarev.com/ghpvc/?username=fzihak&style=flat-square&label=views)
 
 </div>
 
