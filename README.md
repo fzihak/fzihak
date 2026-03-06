@@ -1,97 +1,130 @@
-# Hi there! 👋 I'm Foysal Zihak
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Go+%26+Cloud+Native+Engineer;React+%26+Next.js+Specialist;Always+Building%2C+Always+Learning" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fzihak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fzihak?label=Followers&style=social" alt="GitHub followers" />
+```ascii
+███████╗██╗███╗   ██╗ ██████╗ ███████╗██████╗ ███████╗
+██╔════╝██║████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔════╝
+█████╗  ██║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝███████╗
+██╔══╝  ██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗╚════██║
+██║     ██║██║ ╚████║╚██████╔╝███████╗██║  ██║███████║
+╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Cloud+Native+Engineer;Go+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Microservices+%7C+Distributed+Systems+%7C+DevOps;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fzihak&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/fzihak)
+[![GitHub followers](https://img.shields.io/github/followers/fzihak?label=Followers&style=for-the-badge&color=36BCF7)](https://github.com/fzihak?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zihak/)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-```javascript
-const foysalZihak = {
-    name: "Foysal Zihak",
-    role: "Full Stack Developer & Cloud Native Engineer",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    passion: "Building scalable systems & great developer experiences",
-    currentFocus: "Microservices with Go, Cloud-native architectures & DevOps",
-    learning: ["Kubernetes", "AI/ML Integration", "Distributed Systems"],
-    funFact: "I turn coffee into distributed systems! ☕🚀"
-};
+```go
+package main
 
-console.log("Welcome to my GitHub profile! Let's build something incredible together 🌍");
+import "fmt"
+
+type Developer struct {
+	Name        string
+	Role        string
+	Location    string
+	Focus       []string
+	Learning    []string
+	Philosophy  string
+}
+
+func main() {
+	me := Developer{
+		Name:     "Foysal Zihak",
+		Role:     "Full Stack Developer & Cloud Native Engineer",
+		Location: "Dhaka, Bangladesh 🇧🇩",
+		Focus: []string{
+			"Microservices with Go",
+			"Cloud-Native Architectures (AWS, Docker, K8s)",
+			"React & Next.js full-stack apps",
+		},
+		Learning:   []string{"Distributed Systems", "AI/ML Integration", "Platform Engineering"},
+		Philosophy: "Write code that scales, systems that last, and docs that help.",
+	}
+
+	fmt.Printf("👋 Hey! I'm %s — %s\n", me.Name, me.Role)
+	fmt.Println("🌍 Let's build something incredible together!")
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,sass,tailwind&theme=dark" />
-</div>
 
-### ⚙️ Backend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,python,mongodb,postgres,redis,php,java&theme=dark" />
-</div>
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud, DevOps & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,linux,vite,vercel&theme=dark" />
+### ⚙️ Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=fzihak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fzihak&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ---
 
-## 💼 Professional Expertise
+## 💼 What I Build
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=react" width="65" />
-      <br><strong>React Ecosystem</strong>
-      <br><sub>Advanced component architecture</sub>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react" width="55" /><br/>
+      <strong>React & Next.js</strong><br/>
+      <sub>Production-grade SPAs & SSR apps</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" />
-      <br><strong>Next.js</strong>
-      <br><sub>Full-stack React framework</sub>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=go" width="55" /><br/>
+      <strong>Go Microservices</strong><br/>
+      <sub>High-throughput REST & gRPC APIs</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=go" width="65" />
-      <br><strong>Go (Golang)</strong>
-      <br><sub>High-performance microservices</sub>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" /><br/>
+      <strong>Container Orchestration</strong><br/>
+      <sub>Docker + Kubernetes deployments</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" />
-      <br><strong>Node.js</strong>
-      <br><sub>Server-side JavaScript</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" />
-      <br><strong>Docker & K8s</strong>
-      <br><sub>Container orchestration</sub>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=aws" width="55" /><br/>
+      <strong>Cloud Infrastructure</strong><br/>
+      <sub>Scalable AWS architectures</sub>
     </td>
   </tr>
 </table>
@@ -103,14 +136,14 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 <!-- BLOG-POST-LIST:START -->
 🔗 [A Beginner's Complete Guide to Frontend Web Development](https://dev.to/fzihak/getting-started-with-frontend-web-development-a-complete-guide-for-beginners-295j)
 
-🔗 [Machine Learning (A Beginner's Guide and Opportunities)](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
+🔗 [Machine Learning — A Beginner's Guide and Opportunities](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
 
 🔗 [How to Start Learning a Programming Language: A Beginner's Guide](https://dev.to/fzihak/how-to-start-learning-a-programming-language-a-beginners-guide-o9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -124,8 +157,9 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 ---
 
 <div align="center">
-  <i>⭐ Open to exciting opportunities & collaborations — let's connect!</i>
+  <sub>⚡ Open to exciting opportunities, collaborations & open source — let's build something great!</sub>
 </div>
+
 
 
 
