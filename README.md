@@ -24,7 +24,7 @@ I care about clean APIs, maintainable code, and shipping things that actually wo
 ```
 Frontend   →   React  ·  Next.js  ·  Vue.js  ·  TypeScript  ·  Tailwind CSS
 Backend    →   Go  ·  Node.js  ·  Express  ·  MySQL  ·  Redis
-WordPress  →   Theme Development  ·  Plugin Development  ·  WP Ecosystem
+WordPress  →   Plugin Development  ·  Performance Tuning  ·  Security Hardening
 QA         →   Manual Testing  ·  Bug Reporting  ·  Test Case Design
 Tools      →   Git  ·  Docker  ·  Linux  ·  Vercel  ·  Netlify
 ```
