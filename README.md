@@ -1,13 +1,6 @@
 <div align="center">
 
-```ascii
-███████╗██╗███╗   ██╗ ██████╗ ███████╗██████╗ ███████╗
-██╔════╝██║████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔════╝
-█████╗  ██║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝███████╗
-██╔══╝  ██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗╚════██║
-██║     ██║██║ ╚████║╚██████╔╝███████╗██║  ██║███████║
-╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-```
+# 👋 Hi, I'm Foysal Zihak
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Cloud+Native+Engineer;Go+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Microservices+%7C+Distributed+Systems+%7C+DevOps;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
