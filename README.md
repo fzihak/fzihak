@@ -55,7 +55,7 @@ console.log("Welcome to my GitHub profile! Let's build something incredible toge
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fzihak&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzihak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
